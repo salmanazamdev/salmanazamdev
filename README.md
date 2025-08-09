@@ -1,6 +1,22 @@
 # 💫 About Me:
-<br>🛠️ Just a curious developer who loves building cool (and sometimes hilariously simple) things that actually work 😄<br>📱 Currently exploring React Native, Full-Stack Development (Node.js/Express), C++, SQL, HTML/CSS/JS and diving  a little into the world of AI/ML<br>🧠 Always experimenting: from mobile apps to APIs, from silly ideas to smart tools, I believe learning happens when you try, fail, fix, and laugh<br><br>✨ Recent Experiments & Projects:<br>– Moody Weather AI (WIP): An emotion-based weather app that reflects mood and reacts to temperature intelligently 🌦️🧠<br>– Hisabi: A mini calculator app built with React Native 🔢<br>– Task Manager API: A full Express.js CRUD backend for managing tasks via REST 🗂️<br>– Tic Tac Toe: A simple but addictive browser-based game ❌⭕<br>– Sports Inventory DBMS: MySQL-based database project for managing sports gear ⚽<br>– Expense Tracker in C++: A console-based budget monitor 💸<br>– AI Script Analyzer (WIP): AI-powered tool for content creators to improve their video scripts 🤖<br>– VAR Goal-Line Tech (WIP): Experimental AI logic to handle offside/goal-line decisions in football ⚽🧠<br><br>🎥 Sharing my coding experiments & student journey through short explainers on LinkedIn & YouTube<br>🌍 Learning out loud. Breaking, fixing, and rebuilding one idea at a time<br>📌 Passionate about content, code, and creative problem-solving
+<br>🛠️ Just a curious developer turning ideas into things that actually work — sometimes simple, sometimes ambitious, but always built with love (and a little caffeine ☕).
+<br>📱 Currently building Khaana Express 🍽️ — a full-stack food delivery app (React Native + Expo Router frontend, Node.js + Express + PostgreSQL + Docker backend).
+<br>🧠 Diving deeper into React Native, Full-Stack Development, C++, SQL, JavaScript, and experimenting with AI/ML concepts.
+<br>💡 I believe the best way to learn is to build, break, fix, and repeat — with a smile along the way 😄.
 
+<br>✨ Recent Experiments & Projects:
+– Khaana Express (Main Project): Full-stack restaurant & food delivery app with cart, orders, payments, and more 🚀
+– AI Script Analyzer (WIP): AI-powered tool to help content creators improve their video scripts 🤖
+– Moody Weather AI (WIP): Emotion-based weather app 🌦️🧠
+– Hisabi: Mini calculator app in React Native 🔢
+– Task Manager API: Express.js CRUD backend for managing tasks 🗂️
+– Sports Inventory DBMS: MySQL-based sports gear management ⚽
+– Expense Tracker (C++): Console-based budget monitor 💸
+– Tic Tac Toe: Simple but addictive browser-based game ❌⭕
+
+<br>🎥 Sharing my coding journey through short explainers on LinkedIn & YouTube
+🌍 Learning out loud. Shipping ideas. Breaking & fixing my way forward.
+📌 Passionate about code, content, and creative problem-solving
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salmanazam_ig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salmanazamdev) 
