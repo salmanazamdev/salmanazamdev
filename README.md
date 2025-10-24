@@ -1,18 +1,140 @@
-# 💫 About Me:
-Just a curious developer turning ideas into things that actually work, sometimes simple, sometimes ambitious, but always built with love (and a little chai).<br><br>🚀 Tech Stack (Cross-Platform & Full-Stack Focus):<br>Mobile & Cross-Platform: React Native (Expo & CLI), Expo Router<br>Backend & APIs: Node.js, Express.js, PostgreSQL, MySQL, Docker<br>Frontend & Web: JavaScript (ES6+), HTML, CSS<br>Tools & Libraries: Docker, Postman, Beekeeper, VS Code, Bash, RN CLI, Git/GitHub<br>Other Languages: C++, SQL, Python<br><br>Exploring: AI/ML concepts and modular coding patterns<br><br>📌 Recent Projects & Experiments:<br>Khaana Express – Full-stack restaurant & food delivery app with cart, orders, payments, and more<br>AchieveIt (To-Do App) – Task manager with categories, priorities, filters, calendar view, authentication & fingerprint unlock<br>AI Script Analyzer (WIP) – AI-powered tool to help content creators refine their video scripts<br>Moody Weather AI – Emotion-based weather app<br>Mapbox Playground – Location & maps integration experiments<br>Barcode Scanner Demo – RN-based item scanning utility<br>Media Uploader – File/image upload handling in mobile apps<br>Push Notification Module – RN CLI custom implementation for notifications<br>Hisabi – Mini calculator app in React Native<br>Task Manager API – Express.js CRUD backend for tasks<br>Sports Inventory DBMS – MySQL-based sports gear management<br>Expense Tracker (C++) – Console-based budget monitor<br>Tic Tac Toe – Browser-based game<br><br>💡 I believe the best way to learn is to build, break, fix, and repeat...<br>🎥 I also share my coding journey through explainers and project demos on LinkedIn.<br>
+# Hi — I'm Salman Azam 👋 (salmanazamdev)
 
+> Mobile-first full‑stack software engineer. I build production-ready cross-platform React Native apps, realtime systems, and reliable backends, payments, tracking, auth, and developer-friendly templates.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salmanazam_ig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmanazamdev?) 
+[![Top Language](https://img.shields.io/badge/top%20language-TypeScript-blue?logo=typescript)]()
+[![Status](https://img.shields.io/badge/status-Open%20to%20collab-brightgreen)]()
 
-# 💻 Tech Stack:
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=salmanazamdev&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=salmanazamdev&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanazamdev&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+About me
+--------
+I design and ship end-to-end mobile experiences, from native modules and UI to backend APIs, payments, and deployment. I care about developer experience (TypeScript-first), performance, and clean UX. I publish production-ready templates and practical tutorials to help other devs ship faster.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Tech highlights
+---------------
+- Languages: TypeScript, JavaScript, PLpgSQL, Kotlin, Swift, Ruby
+- Mobile: React Native (CLI & Expo), native Android (Kotlin), native iOS (Swift/Obj-C)
+- Backend: Node.js (Express/Nest), Supabase, PostgreSQL, REST + realtime
+- Payments: Stripe (Payment Sheet)
+- Infra & tooling: Docker, GitHub Actions, Firebase, CI, Jest, E2E testing (Detox)
+- Favorite patterns: component-driven mobile architecture, modular coding patterns, typed APIs, reproducible Dockerized dev environments
+
+Pinned projects
+---------------
+I focus on real-world mobile apps (food delivery, payments, realtime location) and starter templates that are production-ready.
+
+- Some heavy stuff (projects) that I can't reveal here
+
+- nanbites-food-delivery-app — Complete food delivery mobile app built with React Native CLI, featuring Supabase backend, Stripe payments, real-time tracking, Google OAuth, push notifications, and modern UI/UX.  
+  https://github.com/salmanazamdev/nanbites-food-delivery-app  
+  Languages: TypeScript 83.1% · PLpgSQL 11.8% · Kotlin 1.8% · Ruby 1.3% · Other 2%
+
+- restaurant-fullstack-app — Full‑stack restaurant food delivery app (Khaana Express) using Node.js, PostgreSQL (Docker), and React Native (Expo). Admin management for orders, menus, users and real-time status.  
+  https://github.com/salmanazamdev/restaurant-fullstack-app  
+  Languages: TypeScript 71.2% · JavaScript 28.8%
+
+- todo-list-app (AchieveIt) — Cross-platform to-do app (React Native + PostgreSQL + Docker).  
+  https://github.com/salmanazamdev/todo-list-app  
+  Languages: TypeScript 90.2% · JavaScript 9.8%
+
+- live-location-mapper — RN module for real-time map rendering, live location tracking, and search suggestions.  
+  https://github.com/salmanazamdev/live-location-mapper  
+  Languages: TypeScript 70.7% · Kotlin 15.6% · JavaScript 13.7%
+
+- rn-firebase-complete — RN + Firebase starter with push notifications & analytics — production-ready template.  
+  https://github.com/salmanazamdev/rn-firebase-complete  
+  Languages: TypeScript 62.4% · Kotlin 15.6% · Objective-C 8.3% · Ruby 7.9%
+
+- stripe-payment-react-native-app — RN app with Stripe Payment Sheet integration + backend.  
+  https://github.com/salmanazamdev/stripe-payment-react-native-app  
+  Languages: JavaScript 54.1% · Kotlin 16.6% · Ruby 11.5% · Swift 9.2%
+
+- react-native-google-auth-signin-android — Guide + working code for Google OAuth on RN Android.  
+  https://github.com/salmanazamdev/react-native-google-auth-signin-android
+
+- restaurant-api-nodejs-docker — RESTful restaurant management API (Node.js, Express, PostgreSQL) — Dockerized.  
+  https://github.com/salmanazamdev/restaurant-api-nodejs-docker
+
+What I build (typical flow)
+---------------------------
+1. Product flow, wireframes, and API contract (OpenAPI / Postman)  
+2. Backend & DB (Postgres, schema, stored procedures)  
+3. Mobile UI and components (TypeScript, reusable patterns)  
+4. Integrations: Auth (Supabase/Google), Payments (Stripe), Push & Analytics  
+5. Realtime: location, order updates (Supabase Realtime / sockets)  
+6. CI, tests, Docker, and release (App Store / Play Store + server infra)
+
+Quick local setup template
+--------------------------
+This is the pattern I use across many projects — copy/paste, then adapt.
+
+1. Clone
+```bash
+git clone https://github.com/salmanazamdev/<repo>.git
+cd <repo>
+```
+
+2. Install
+```bash
+yarn install
+# or
+npm install
+```
+
+3. Environment
+```bash
+cp .env.example .env
+# edit .env for DATABASE_URL, SUPABASE_URL, SUPABASE_KEY, STRIPE_SECRET, GOOGLE_CLIENT_ID, etc.
+```
+
+4. Run
+```bash
+# backend
+npm run dev
+# or with docker
+docker-compose up --build
+
+# mobile (React Native CLI)
+npx react-native run-android
+npx react-native run-ios
+
+# Expo
+expo start
+```
+
+5. Tests
+```bash
+npm test
+# e2e
+npm run test:e2e
+```
+
+Contact & socials
+-----------------
+Please replace placeholders below with your preferred links — I left them blank intentionally for privacy.
+
+- GitHub: https://github.com/salmanazamdev
+- LinkedIn: https://www.linkedin.com/in/salmanazamdev
+
+Availability & collaboration
+----------------------------
+Open to: freelance contracts, startups, technical leadership, mentorship, and collaboration on mobile + backend products. If you’re building something that needs fast, production-ready mobile + backend work, reach out.
+
+Security & responsible disclosure
+---------------------------------
+If you find a security vulnerability in any repo, please reach out privately (do not open a public issue) and include reproduction steps and affected versions — I will respond and coordinate fixes.
+
+GitHub stats & languages
+------------------------
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmanazamdev&show_icons=true&theme=radical&hide_border=true" alt="Salman Azam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanazamdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+How you can help / sponsor
+--------------------------
+If you find my templates or tutorials helpful and want to support continued work:
+- GitHub Sponsors / Buy Me a Coffee / Patreon — add a sponsor link above.
+- Star projects you like and open issues/PRs with improvements.
+
