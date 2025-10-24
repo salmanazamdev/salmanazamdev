@@ -1,4 +1,4 @@
-# Hi — I'm Salman Azam 👋 (salmanazamdev)
+# Hi, I'm Salman Azam 👋
 
 > Mobile-first full‑stack software engineer. I build production-ready cross-platform React Native apps, realtime systems, and reliable backends, payments, tracking, auth, and developer-friendly templates.
 
@@ -65,55 +65,8 @@ What I build (typical flow)
 5. Realtime: location, order updates (Supabase Realtime / sockets)  
 6. CI, tests, Docker, and release (App Store / Play Store + server infra)
 
-Quick local setup template
---------------------------
-This is the pattern I use across many projects — copy/paste, then adapt.
-
-1. Clone
-```bash
-git clone https://github.com/salmanazamdev/<repo>.git
-cd <repo>
-```
-
-2. Install
-```bash
-yarn install
-# or
-npm install
-```
-
-3. Environment
-```bash
-cp .env.example .env
-# edit .env for DATABASE_URL, SUPABASE_URL, SUPABASE_KEY, STRIPE_SECRET, GOOGLE_CLIENT_ID, etc.
-```
-
-4. Run
-```bash
-# backend
-npm run dev
-# or with docker
-docker-compose up --build
-
-# mobile (React Native CLI)
-npx react-native run-android
-npx react-native run-ios
-
-# Expo
-expo start
-```
-
-5. Tests
-```bash
-npm test
-# e2e
-npm run test:e2e
-```
-
 Contact & socials
 -----------------
-Please replace placeholders below with your preferred links — I left them blank intentionally for privacy.
-
 - GitHub: https://github.com/salmanazamdev
 - LinkedIn: https://www.linkedin.com/in/salmanazamdev
 
@@ -132,9 +85,8 @@ GitHub stats & languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanazamdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-How you can help / sponsor
+How you can help
 --------------------------
 If you find my templates or tutorials helpful and want to support continued work:
-- GitHub Sponsors / Buy Me a Coffee / Patreon — add a sponsor link above.
 - Star projects you like and open issues/PRs with improvements.
 
