@@ -39,7 +39,7 @@ I focus on real-world mobile apps (food delivery, payments, realtime location) a
   Languages: TypeScript 90.2% · JavaScript 9.8%
 
 - live-location-mapper — RN module for real-time map rendering, live location tracking, and search suggestions.  
-  https://github.com/salmanazamdev/live-location-mapper  
+  private 
   Languages: TypeScript 70.7% · Kotlin 15.6% · JavaScript 13.7%
 
 - rn-firebase-complete — RN + Firebase starter with push notifications & analytics — production-ready template.  
