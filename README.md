@@ -19,7 +19,7 @@ I design and ship end-to-end software products — from mobile UX and native mod
 - **Mobile:** React Native (CLI + Expo)
 - **Backend:** Node.js, Express, Supabase, PostgreSQL
 - **Integrations:** Stripe, Google OAuth, Firebase, push notifications, analytics, maps/location
-- **Infra/Tooling:** Docker, GitHub, modular architecture patterns
+- **Infra/Tooling:** Docker, Git, GitHub, Figma , modular architecture patterns
 
 ---
 
@@ -54,42 +54,26 @@ I design and ship end-to-end software products — from mobile UX and native mod
 - **[Live Location Mapper](https://github.com/salmanazamdev/live-location-mapper)** — realtime map rendering, tracking, and smart location search
 - **[File Uploader](https://github.com/salmanazamdev/file-uploader)** — image/video/document upload module with clean UI patterns
 - **[Barcode Scanner App](https://github.com/salmanazamdev/barcode-scanner-app)** — fast barcode/QR scanning module
-- **[React Native Google Auth Sign-In (Android)](https://github.com/salmanazamdev/react-native-google-auth-signin-android)** — production-ready Google OAuth integration guide + code
+- **[React Native Google Auth Sign-In (Android)](https://github.com/salmanazamdev/react-native-google-auth-signin-android)** — production-ready Google OAuth 2.0 integration guide + code
 - **[RN Firebase Complete](https://github.com/salmanazamdev/rn-firebase-complete)** — Firebase push + analytics starter
 - **[Stripe Payment React Native App](https://github.com/salmanazamdev/stripe-payment-react-native-app)** — Stripe Payment Sheet integration + backend reference
 
 ---
 
-## Backend/API & full-stack foundations
+## Backend/API foundations
 
 - **[Restaurant API Node.js Docker](https://github.com/salmanazamdev/restaurant-api-nodejs-docker)** — RESTful API with auth, PostgreSQL schema, seed data, Dockerized workflow
 - **[Task Manager API](https://github.com/salmanazamdev/task-manager-api)** — in-memory CRUD REST API for backend fundamentals
-- **[Fullstack App](https://github.com/salmanazamdev/fullstack-app)** — combined Expo frontend + Express backend starter architecture
-
 ---
 
 ## Learning, labs, and experimental repos
 
 - **[JavaScript Mastery by Salman](https://github.com/salmanazamdev/javascript-mastery-by-salman)**
 - **[Hisabi React Native Calculator](https://github.com/salmanazamdev/hisabi-react-native-calculator)**
-- **[BiryaniBoss](https://github.com/salmanazamdev/BiryaniBoss)**
 - **[Tic-Tac-Toe](https://github.com/salmanazamdev/tic-tac-toe)**
 - **[Cool Login Form](https://github.com/salmanazamdev/cool-login-form)**
 - **[Expense Tracker (C++)](https://github.com/salmanazamdev/expense-tracker)**
-- **[Java Labs (Software Construction & Development)](https://github.com/salmanazamdev/java_labs_software-construction-and-development)
-- **[Sports Inventory DBMS](https://github.com/salmanazamdev/sports-inventory-dbms)
-- **[ER Diagram Pro](https://github.com/salmanazamdev/er-diagram-pro)
-
----
-
-## Forks / references / misc
-
-- **[ai-job-search](https://github.com/salmanazamdev/ai-job-search)**
-- **[build-your-own-x](https://github.com/salmanazamdev/build-your-own-x)**
-- **[neutts-air](https://github.com/salmanazamdev/neutts-air)**
-- **[Nutrimate_ai_meal_planning_partnert](https://github.com/salmanazamdev/Nutrimate_ai_meal_planning_partnert)**
-- **[simple-calculator](https://github.com/salmanazamdev/simple-calculator)**
-- **[test-project](https://github.com/salmanazamdev/test-project)**
+- **[Sports Inventory DBMS](https://github.com/salmanazamdev/sports-inventory-dbms)**
 
 ---
 
