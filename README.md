@@ -1,92 +1,118 @@
 # Hi, I'm Salman Azam 👋
 
-> Mobile-first full‑stack software engineer. I build production-ready cross-platform React Native apps, realtime systems, and reliable backends, payments, tracking, auth, and developer-friendly templates.
+> Mobile-first full‑stack software engineer building production-ready React Native apps, realtime systems, and reliable backend platforms.
 
 [![Top Language](https://img.shields.io/badge/top%20language-TypeScript-blue?logo=typescript)]()
 [![Status](https://img.shields.io/badge/status-Open%20to%20collab-brightgreen)]()
 
 ---
 
-About me
---------
-I design and ship end-to-end mobile experiences, from native modules and UI to backend APIs, payments, and deployment. I care about developer experience (TypeScript-first), performance, and clean UX. I publish production-ready templates and practical tutorials to help other devs ship faster.
+## About me
 
-Tech highlights
----------------
-- Languages: TypeScript, JavaScript, PLpgSQL, Kotlin, Swift, Ruby
-- Mobile: React Native (CLI & Expo), native Android (Kotlin), native iOS (Swift/Obj-C)
-- Backend: Node.js (Express/Nest), Supabase, PostgreSQL, REST + realtime
-- Payments: Stripe (Payment Sheet)
-- Infra & tooling: Docker, GitHub Actions, Firebase, CI, Jest, E2E testing (Detox)
-- Favorite patterns: component-driven mobile architecture, modular coding patterns, typed APIs, reproducible Dockerized dev environments
+I design and ship end-to-end software products — from mobile UX and native modules to backend APIs, payments, auth, realtime flows, and deployment. My work is strongly TypeScript-first and focused on practical products that solve real user problems.
 
-Pinned projects
----------------
-I focus on real-world mobile apps (food delivery, payments, realtime location) and starter templates that are production-ready.
+---
 
-- Some heavy stuff (projects) that I can't reveal here
+## Tech highlights
 
-- nanbites-food-delivery-app — Complete food delivery mobile app built with React Native CLI, featuring Supabase backend, Stripe payments, real-time tracking, Google OAuth, push notifications, and modern UI/UX.  
-  https://github.com/salmanazamdev/nanbites-food-delivery-app  
-  Languages: TypeScript 83.1% · PLpgSQL 11.8% · Kotlin 1.8% · Ruby 1.3% · Other 2%
+- **Languages:** TypeScript, JavaScript, SQL/PLpgSQL, Kotlin, Java, C++, HTML/CSS
+- **Mobile:** React Native (CLI + Expo)
+- **Backend:** Node.js, Express, Supabase, PostgreSQL
+- **Integrations:** Stripe, Google OAuth, Firebase, push notifications, analytics, maps/location
+- **Infra/Tooling:** Docker, GitHub, modular architecture patterns
 
-- restaurant-fullstack-app — Full‑stack restaurant food delivery app (Khaana Express) using Node.js, PostgreSQL (Docker), and React Native (Expo). Admin management for orders, menus, users and real-time status.  
-  https://github.com/salmanazamdev/restaurant-fullstack-app  
-  Languages: TypeScript 71.2% · JavaScript 28.8%
+---
 
-- todo-list-app (AchieveIt) — Cross-platform to-do app (React Native + PostgreSQL + Docker).  
-  https://github.com/salmanazamdev/todo-list-app  
-  Languages: TypeScript 90.2% · JavaScript 9.8%
+## Featured product projects
 
-- live-location-mapper — RN module for real-time map rendering, live location tracking, and search suggestions.  
-  private 
-  Languages: TypeScript 70.7% · Kotlin 15.6% · JavaScript 13.7%
+- **[Separeti](https://github.com/salmanazamdev/Separeti)**  
+  Split expenses, settle debts, and avoid spreadsheet/WhatsApp chaos for roommates, friend groups, and trips.  
+  **Stack:** TypeScript (98.4%), JavaScript (1.6%)
 
-- rn-firebase-complete — RN + Firebase starter with push notifications & analytics — production-ready template.  
-  https://github.com/salmanazamdev/rn-firebase-complete  
-  Languages: TypeScript 62.4% · Kotlin 15.6% · Objective-C 8.3% · Ruby 7.9%
+- **[NanBites Food Delivery App](https://github.com/salmanazamdev/nanbites-food-delivery-app)**  
+  Full food delivery mobile app with Supabase backend, Stripe payments, realtime tracking, Google OAuth, and push notifications.  
+  **Stack:** TypeScript, PLpgSQL, Kotlin, Ruby
 
-- stripe-payment-react-native-app — RN app with Stripe Payment Sheet integration + backend.  
-  https://github.com/salmanazamdev/stripe-payment-react-native-app  
-  Languages: JavaScript 54.1% · Kotlin 16.6% · Ruby 11.5% · Swift 9.2%
+- **[Restaurant Fullstack App (Khaana Express)](https://github.com/salmanazamdev/restaurant-fullstack-app)**  
+  Full-stack ordering platform with secure admin management, customer ordering flow, and realtime order status updates.  
+  **Stack:** TypeScript, JavaScript, Node.js, PostgreSQL, Docker, React Native (Expo)
 
-- react-native-google-auth-signin-android — Guide + working code for Google OAuth on RN Android.  
-  https://github.com/salmanazamdev/react-native-google-auth-signin-android
+- **[Todo List App (AchieveIt)](https://github.com/salmanazamdev/todo-list-app)**  
+  Cross-platform productivity app for organizing tasks and tracking progress with Dockerized backend/database flow.  
+  **Stack:** TypeScript, JavaScript, React Native, PostgreSQL, Docker
 
-- restaurant-api-nodejs-docker — RESTful restaurant management API (Node.js, Express, PostgreSQL) — Dockerized.  
-  https://github.com/salmanazamdev/restaurant-api-nodejs-docker
+- **[AlifPlay Arabic Learning Game](https://github.com/salmanazamdev/alifplay-arabic-learning-game)**  
+  Educational mobile app for kids to learn Arabic through interactive visual gameplay.
 
-What I build (typical flow)
----------------------------
-1. Product flow, wireframes, and API contract (OpenAPI / Postman)  
-2. Backend & DB (Postgres, schema, stored procedures)  
-3. Mobile UI and components (TypeScript, reusable patterns)  
-4. Integrations: Auth (Supabase/Google), Payments (Stripe), Push & Analytics  
-5. Realtime: location, order updates (Supabase Realtime / sockets)  
-6. CI, tests, Docker, and release (App Store / Play Store + server infra)
+- **[Moody Weather AI](https://github.com/salmanazamdev/moody-weather-ai)**  
+  15-day weather app using Open-Meteo with mood-based emoji and human-like weather responses.
 
-Contact & socials
------------------
+---
+
+## Reusable app modules & integration repos
+
+- **[Live Location Mapper](https://github.com/salmanazamdev/live-location-mapper)** — realtime map rendering, tracking, and smart location search
+- **[File Uploader](https://github.com/salmanazamdev/file-uploader)** — image/video/document upload module with clean UI patterns
+- **[Barcode Scanner App](https://github.com/salmanazamdev/barcode-scanner-app)** — fast barcode/QR scanning module
+- **[React Native Google Auth Sign-In (Android)](https://github.com/salmanazamdev/react-native-google-auth-signin-android)** — production-ready Google OAuth integration guide + code
+- **[RN Firebase Complete](https://github.com/salmanazamdev/rn-firebase-complete)** — Firebase push + analytics starter
+- **[Stripe Payment React Native App](https://github.com/salmanazamdev/stripe-payment-react-native-app)** — Stripe Payment Sheet integration + backend reference
+
+---
+
+## Backend/API & full-stack foundations
+
+- **[Restaurant API Node.js Docker](https://github.com/salmanazamdev/restaurant-api-nodejs-docker)** — RESTful API with auth, PostgreSQL schema, seed data, Dockerized workflow
+- **[Task Manager API](https://github.com/salmanazamdev/task-manager-api)** — in-memory CRUD REST API for backend fundamentals
+- **[Fullstack App](https://github.com/salmanazamdev/fullstack-app)** — combined Expo frontend + Express backend starter architecture
+
+---
+
+## Learning, labs, and experimental repos
+
+- **[JavaScript Mastery by Salman](https://github.com/salmanazamdev/javascript-mastery-by-salman)**
+- **[Hisabi React Native Calculator](https://github.com/salmanazamdev/hisabi-react-native-calculator)**
+- **[BiryaniBoss](https://github.com/salmanazamdev/BiryaniBoss)**
+- **[Tic-Tac-Toe](https://github.com/salmanazamdev/tic-tac-toe)**
+- **[Cool Login Form](https://github.com/salmanazamdev/cool-login-form)**
+- **[Expense Tracker (C++)](https://github.com/salmanazamdev/expense-tracker)**
+- **[Java Labs (Software Construction & Development)](https://github.com/salmanazamdev/java_labs_software-construction-and-development)
+- **[Sports Inventory DBMS](https://github.com/salmanazamdev/sports-inventory-dbms)
+- **[ER Diagram Pro](https://github.com/salmanazamdev/er-diagram-pro)
+
+---
+
+## Forks / references / misc
+
+- **[ai-job-search](https://github.com/salmanazamdev/ai-job-search)**
+- **[build-your-own-x](https://github.com/salmanazamdev/build-your-own-x)**
+- **[neutts-air](https://github.com/salmanazamdev/neutts-air)**
+- **[Nutrimate_ai_meal_planning_partnert](https://github.com/salmanazamdev/Nutrimate_ai_meal_planning_partnert)**
+- **[simple-calculator](https://github.com/salmanazamdev/simple-calculator)**
+- **[test-project](https://github.com/salmanazamdev/test-project)**
+
+---
+
+## Contact
+
 - GitHub: https://github.com/salmanazamdev
 - LinkedIn: https://www.linkedin.com/in/salmanazamdev
 
-Availability & collaboration
-----------------------------
-Open to: freelance contracts, startups, technical leadership, mentorship, and collaboration on mobile + backend products. If you’re building something that needs fast, production-ready mobile + backend work, reach out.
+---
 
-Security & responsible disclosure
----------------------------------
-If you find a security vulnerability in any repo, please reach out privately (do not open a public issue) and include reproduction steps and affected versions — I will respond and coordinate fixes.
+## Availability
 
-GitHub stats & languages
-------------------------
+Open to collaboration on mobile + backend products, freelancing, startup builds, and technical product execution.
+
+---
+
+## GitHub stats
+
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=salmanazamdev&show_icons=true&theme=radical&hide_border=true" alt="Salman Azam's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanazamdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-How you can help
---------------------------
-If you find my templates or tutorials helpful and want to support continued work:
-- Star projects you like and open issues/PRs with improvements.
+---
 
+> Build useful things. Keep systems clean. Ship consistently.
